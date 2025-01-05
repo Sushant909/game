@@ -167,13 +167,14 @@ body{
     } 
     .container{
         opacity: 0;
+        bottom:340px ;
         max-width:80% ;
         margin-left: 10%;
         box-shadow: 17px 9px 20px rgb(0, 0, 0);
     }
     .sidebar{
         right: 20px;
-        bottom: 390px;
+        bottom: 430px;
         flex-direction: row;
         justify-content: space-between;
         gap: 160px;    
@@ -194,7 +195,7 @@ body{
         width: 27vw;
         font-size: 5vw;
         left: 36%;
-        bottom: 255px;
+        bottom: 300px;
         font-family:'Times New Roman', Times, serif;
         box-shadow: 17px 9px 40px #794d21;
     }
@@ -214,11 +215,12 @@ body{
     .heading{
         color: #f3a354;
         color:#ff9e3c ;
-          
+         top: 30px; 
     }
     .notebox{
         width: 90%;
         left: 5%;
+        bottom: 34%;
         height: 130px;
         font-size: 7vw;
         background-color: #ff9e3c;   
